@@ -8,7 +8,7 @@ We are adhering strictly to the following 7-Step Project Roadmap:
 2. Data Preprocessing & Missing/Invalid Value Imputation
 3. Feature Engineering & Categorical Variable Encoding
 4. Train/Validation Stratified Splitting & Addressing Class Imbalance
-5. Model Selection & Base Model Implementations (Random Forest vs Gradient Boosting)
+5. Model Selection & Base Model Implementations (Random Forest vs Gradient Boosting vs XGBoost vs LightGBM)
 6. Hyperparameter Tuning & "Before vs. After" Preprocessing Evaluation
 7. Submission Extraction & Structured Report Drafting Support
 
